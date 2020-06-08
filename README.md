@@ -1,16 +1,44 @@
-# moviestro
+# Movies app in flutter
 
-A new Flutter application.
+#### Movies App with Google auth, realtime database and THEMovieDB API
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+#### Used features: 
+- flutter material design library
+- themoviedb API  [link](https://developers.themoviedb.org/3/movies/get-movie-details)
+- flutter spin kit library [link](https://pub.dev/packages/flutter_spinkit)
+- flutter animated text kit library [link](https://pub.dev/packages/animated_text_kit)
+- flutter http library [link](https://pub.dev/packages/http)
+- flutter intl library [link](https://pub.dev/packages/intl)
+- flutter provider library [link](https://pub.dev/packages/provider)
+- flutter firebase_database library [link](https://pub.dev/packages/firebase_database)
+- flutter firebase_auth library [link](https://pub.dev/packages/firebase_auth)
+- flutter flutter_rating_bar library [link](https://pub.dev/packages/flutter_rating_bar)
+- flutter devicelocale library [link](https://pub.dev/packages/devicelocale)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### App was created in flutter language which is based on dart.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Used technology
+- async tasks
+- get data from api
+- build listview with builder method
+- used maps and lists
+- used navigator component
+- custom classes and widgets
+- login or register with google auth
+- save your own movies in google real time database firebase
+- find movies and overview in your own language 
+
+
+## Screenshots :
+
+<img src="scr/login.png" width="40%">
+<img src="scr/loading.png" width="40%">
+<img src="scr/movies_1.png" width="40%">
+<img src="scr/movies_2.png" width="40%">
+<img src="scr/pop_menu.png" width="40%">
+<img src="scr/users_movies.png" width="40%">
+<img src="scr/add_movie.png" width="40%">
+## Thanks for reading. Don't forget to star my project 
